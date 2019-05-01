@@ -1,0 +1,46 @@
+<application>
+  <component name="libraryTable">
+    <library name="hbase lib">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Documents/hbase lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Documents/hbase lib" />
+      </SOURCES>
+      <jarDirectory url="file://$USER_HOME$/Documents/hbase lib" recursive="false" />
+      <jarDirectory url="file://$USER_HOME$/Documents/hbase lib" recursive="false" type="SOURCES" />
+    </library>
+    <library name="lib">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Documents/hiveudf/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Documents/hiveudf/lib" />
+      </SOURCES>
+      <jarDirectory url="file://$USER_HOME$/Documents/hiveudf/lib" recursive="false" />
+      <jarDirectory url="file://$USER_HOME$/Documents/hiveudf/lib" recursive="false" type="SOURCES" />
+    </library>
+    <library name="scala-sdk-2.12.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/soft/scala/lib/scala-library.jar" />
+          <root url="file://$USER_HOME$/soft/scala/lib/scala-compiler.jar" />
+          <root url="file://$USER_HOME$/soft/scala/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/soft/scala/lib/scala-library.jar!/" />
+        <root url="jar://$USER_HOME$/soft/scala/lib/scala-swing_2.12-2.0.3.jar!/" />
+        <root url="jar://$USER_HOME$/soft/scala/lib/scala-reflect.jar!/" />
+        <root url="jar://$USER_HOME$/soft/scala/lib/scala-parser-combinators_2.12-1.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/soft/scala/lib/scala-xml_2.12-1.0.6.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="http://www.scala-lang.org/api/2.12.8/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</application>
